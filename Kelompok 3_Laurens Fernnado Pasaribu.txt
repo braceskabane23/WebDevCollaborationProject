@@ -3,3 +3,4 @@ Diskusi mengenai Fitur Login dalam Aplikasi
 Peserta Diskusi:
 
 Laurens (Lead Developer)
+faris (backend developer)
