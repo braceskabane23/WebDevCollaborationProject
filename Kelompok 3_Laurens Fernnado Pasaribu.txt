@@ -5,3 +5,4 @@ Peserta Diskusi:
 Laurens (Lead Developer)
 faris (backend developer)
 Dectrixie (Security Specialist)
+Daud Firdo (UI/UX Designer)
