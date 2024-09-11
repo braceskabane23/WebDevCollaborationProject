@@ -3,7 +3,3 @@ Diskusi mengenai Fitur Login dalam Aplikasi
 Peserta Diskusi:
 
 Laurens (Lead Developer)
-
-
-Laurens (Lead Developer):
-"Oke teman-teman, kita akan bahas tentang implementasi fitur login. Dari sisi teknis, aku berpikir untuk menggunakan Firebase Authentication supaya proses login lebih simpel dan aman. Ada saran atau masukan dari sisi desain atau keamanan?"
